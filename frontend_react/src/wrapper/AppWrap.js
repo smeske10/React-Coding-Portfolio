@@ -6,8 +6,7 @@ const AppWrap = (Component, idName, classNames) =>
     return (
       <div id={idName} className={`app__container ${classNames}`}>
         <SocialMedia />
-
-        <div className="app_wrapper app_flex">
+        <div className="app__wrapper app__flex">
           <Component />
 
           <div className="copyright">
