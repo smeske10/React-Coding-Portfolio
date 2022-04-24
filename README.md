@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# My React Coding Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This full stack application built with ReactJS and Sanity allows users to explore my coding portfolio, learn about my skills as a developer, and add testimonials to the page. There is a form to contact me at the end of the application.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Credits](#credits)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Contribute](#Contribute)
 
-### `npm start`
+## License
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Unlicensed
 
-### `npm test`
+Refer to [https://choosealicense.com/](https://choosealicense.com/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+To install this application, please follow the steps below:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. In the integrated terminal, on the parent, frontend_react and backend-sanity directories, run `npm i`
+2. In the frontend_react terminal, run `npm run start`
+3. Once the application starts, explore the features in Chrome
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- EXTENSIONS:
+  - ReactJS
+  - React-dom
+  - Sanity Client
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+- GitHub: https://github.com/smeske10/React-Coding-Portfolio
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Landing Page](./frontend_react/src/assets/Screenshot.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- This application uses [ReactJS](https://reactjs.org/docs/getting-started.html) and [Sanity](https://www.sanity.io/) to create a full stack web application.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Questions
 
-## Learn More
+If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more at [smeske10](https://github.com/smeske10/).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contribute
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Contact me directly at my GitHub
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
