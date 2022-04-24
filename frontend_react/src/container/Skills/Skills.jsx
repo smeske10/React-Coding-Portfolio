@@ -1,11 +1,11 @@
-import React from 'react'
-
-import './Skills.scss'
+import React, { useState, useEffect } from "react";
+import { motion } from "framer-motion";
+import { AppWrap } from "../../wrapper";
+import { urlFor, client } from "../../client";
+import "./Skills.scss";
 
 const Skills = () => {
-  return (
-    <div>Skills</div>
-  )
-}
+  return <div>Skills</div>;
+};
 
-export default Skills
+export default Skills;
